@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Zulgsmh
 - 👀 I’m interested in Dev web and big data
-- 🌱 I’m currently learning Scala
+- 🌱 I’m currently learning Scala, Spring and microservices
 - 📫 How to reach me : lorem1291@gmail.com
 
 <!---
